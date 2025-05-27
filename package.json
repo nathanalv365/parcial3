@@ -1,13 +1,13 @@
 {
-  "name": "parcial3",
+  "name": "parcial",
   "version": "1.0.0",
-  "description": "Prueba parcial3",
+  "description": "Prueba parcial",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "preinstall": "npx npm-force-resolutions"
   },
-  "author": "Tu Nombre",
+  "author": "Charcosalao",
   "license": "MIT",
   "dependencies": {},
   "resolutions": {
